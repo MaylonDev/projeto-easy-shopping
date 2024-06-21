@@ -99,6 +99,37 @@ button:active {
     opacity: 0.5;
 }
 
+@media screen and (max-width: 128560px) {
+    
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media screen and (max-width:900px) {
     .container-left {
         width: 100%;
@@ -143,6 +174,12 @@ button:active {
     button {
         margin: 0 auto;
         display: block;
+    }
+}
+
+@media screen and (max-width:667px) {
+    h1 {
+        margin-top: 10px;
     }
 }
 
