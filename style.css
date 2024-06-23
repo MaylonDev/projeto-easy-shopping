@@ -100,35 +100,17 @@ button:active {
 }
 
 @media screen and (max-width: 128560px) {
-    
+    .container-left {
+        margin-top: 145px;
+        padding-left: 95px;
+    }
 
-
-
-
-
-
-
-
+    img {
+        top: 45px;
+        right: 135px;
+        width: 75%;
+    }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 @media screen and (max-width:900px) {
     .container-left {
