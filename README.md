@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/MaylonDev/projeto-easy-shopping/a5b83c7f680889cc588316a3c69217c162eb5e9d/assets/Mockups%20-%20Shopping.png" alt="Mockups"/>
+<img src="https://raw.githubusercontent.com/MaylonDev/projeto-easy-shopping/e78dfbbdf145dedacfdd234b447e46cc132cab58/assets/Mockups%20-%20Shopping.png" alt="Mockups"/>
 
 <br>
 
