@@ -8,9 +8,9 @@
 <br>
 
 <p align="center">
- <a href="#dart-about-the-project">About the project</a>
- <a href="#computer-technologies">Technologies</a>
- <a href="#trophy-skills-developed">Skills Developed</a>
+ <a href="#dart-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#computer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#trophy-skills-developed">Skills Developed</a>&nbsp;&nbsp;&nbsp;
 
 <br>
 
